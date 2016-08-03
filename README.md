@@ -8,4 +8,4 @@ vagrant plugin install vagrant-librarian-chef-nochef
 
 ## ruby path 
 
-/home/vagrant/.rbenv/shims/ruby
+/home/ubuntu/.rbenv/versions/2.3.1/bin/ruby
